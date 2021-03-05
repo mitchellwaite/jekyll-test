@@ -1,5 +1,6 @@
 ---
 title: My page
+sidebar: toc
 layout: default
 ---
 
